@@ -1,6 +1,7 @@
 // One-Liner Laugh Lab: the excuse a robot vacuum gives after
 // eating a sock. It did not eat the sock — the sock attacked
-// first, and the vacuum has the dust to prove it.
+// first, and the vacuum has the dust to prove it. The dust is
+// the evidence. The sock started it.
 //
 // The program also guards the gate itself: it refuses to write
 // an entry that is blank, over 200 characters, or more than one line.
